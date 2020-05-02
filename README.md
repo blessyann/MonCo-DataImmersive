@@ -1,3 +1,3 @@
-#America's Promise Immersive Data Analytics Boot Camp in Montgomerry college
+# Immersive Data Analytics Boot Camp - Montgomery County College
 
 Chapter wise assignments solutions!!
